@@ -2,7 +2,7 @@
 <h1 align="center">Hi there👋, Mofazzal😎 this Side!</h1>
 ---
 <p>
-<img src="https://img.libquotes.com/pic-quotes/v2/rudyard-kipling-quote-lbr5n8y.jpg">
+<img src="image.jpg">
 </p>
 ---
 <h3 align="center">Let's get connected:</h3>
