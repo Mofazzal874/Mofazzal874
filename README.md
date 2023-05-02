@@ -1,16 +1,48 @@
-### Hi there 👋
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://github.com/Mofazzal874)
+<h1 align="center">Hi there👋, Mofazzal😎 this Side!</h1>
+---
+<p>
+<img src="https://img.libquotes.com/pic-quotes/v2/rudyard-kipling-quote-lbr5n8y.jpg">
+</p>
+---
+<h3 align="center">Let's get connected:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/mofazzal874/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+<a href="https://facebook.com/mofazzal874" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg" alt="rishav_chanda" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Mofazzal874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
+</p>
+---
 
-<!--
-**Mofazzal874/Mofazzal874** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 **Things that I use:**
+### **Languages**:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-Here are some ideas to get you started:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### **IDE/Editors:**
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+
+---
+
+
+### 🖥⌨ Stats
+
+
+| <a href="https://github.com/Mofazzal874"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Mofazzal874&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)" alt="Mofazzal's github stats" /></a> | <a href="https://github.com/Mofazzal874"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mofazzal874&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Mofazzal's Github Stats" /></a> | 
+| :------------- | :-------------: |
+| <a href="https://github.com/Mofazzal874"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mofazzal874&layout=compact&theme=tokyonight&hide_border=true" /></a>  | <b>Your Philosophy can make a difference. <br /> - <i>AlexPy</i></b> |
+
+<br />
+<a href="https://github.com/Mofazzal874"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Mofazzal874&bg_color=1a1b27&color=1f6feb&line=38bcad&point=628fdb&area=true&hide_border=true" alt="Mofazzal's github stats" /></a>
+
+<br />
+
+
