@@ -7,6 +7,7 @@
 ---
 <h3 align="center">Let's get connected:</h3>
 <p align="center">
+ <a href="mofazzalhossen874@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" height="30" width="40" /></a> 
 <a href="https://linkedin.com/in/mofazzal874/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 <a href="https://facebook.com/mofazzal874" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg" alt="rishav_chanda" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Mofazzal874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
