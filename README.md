@@ -42,7 +42,7 @@
 | <a href="https://github.com/Mofazzal874"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mofazzal874&layout=compact&theme=tokyonight&hide_border=true" /></a>  
 [![](https://visitcount.itsvg.in/api?id=Mofazzal874&label=Profile%20Views&color=12&icon=1&pretty=false)](https://visitcount.itsvg.in)
 <br />
-<a href="https://github.com/Mofazzal874"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Mofazzal874&bg_color=1a1b27&color=1f6feb&line=38bcad&point=628fdb&area=true&hide_border=true" alt="Mofazzal's github stats" /></a>
+<a href="https://github.com/Mofazzal874"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Mofazzal874&bg_color=1a1b27&color=1f6feb&line=38bcad&point=628fdb&area=true&hide_border=true" alt="Mofazzal's github stats" /></a>
 
 <br />
 
