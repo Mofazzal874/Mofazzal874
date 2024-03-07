@@ -1,5 +1,4 @@
 
-<h1 align="center">Ta daa!!!</h1>
 ---
 <p>
 <img src="image.jpg">
@@ -7,31 +6,17 @@
 ---
 <h3 align="center">Let's get connected:</h3>
 <p align="center">
- <a href="mailto:mofazzalhossen874@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" height="30" width="40" /></a> 
-<a href="https://linkedin.com/in/mofazzal874/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-<a href="https://facebook.com/mofazzal874" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg" alt="rishav_chanda" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@Mofazzal874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
+ <a href="mailto:mofazzalhossen874@gmail.com" target="__blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" height="30" width="40" /></a> 
+<a href="https://linkedin.com/in/mofazzal874/" target="__blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mofazzal's linkedin" height="30" width="40" /></a>
+<a href="https://facebook.com/mofazzal874" target="__blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg" alt="Mofazzal's github profile" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Mofazzal874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Mofazzal"s Youtube" height="30" width="40" /></a>
 </p>
----
 
-## 💻 **Things that I use:**
-### **Languages**:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+<details>
+ <summary> My Language Usage Stats(Last 30 days)</summary>
+<img src="https://wakatime.com/share/@018dc359-d2b7-4261-ae85-5c58b466e159/78a4ff74-d6fc-4297-998f-9d63e4018586.svg" height="440" style="border-radius: 15px; border: 3px solid white;">
+</details>
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-
-### **IDE/Editors:**
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
-
----
 
 
 ### 🖥⌨ Stats
