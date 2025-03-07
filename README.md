@@ -1,7 +1,7 @@
 
 ---
 <p>
-<img src="image.jpg">
+<!-- <img src="image.jpg"> -->
 </p>
 ---
 <h3 align="center">Let's get connected:</h3>
