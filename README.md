@@ -12,13 +12,6 @@
 <a href="https://www.youtube.com/@Mofazzal874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Mofazzal"s Youtube" height="30" width="40" /></a>
 </p>
 
-<details>
- <summary> My Language Usage Stats(Last 30 days)</summary>
-<img src="https://wakatime.com/share/@018dc359-d2b7-4261-ae85-5c58b466e159/78a4ff74-d6fc-4297-998f-9d63e4018586.svg" height="440" style="border-radius: 15px; border: 3px solid white;">
-</details>
-
-
-
 ### 🖥⌨ Stats
 
 
