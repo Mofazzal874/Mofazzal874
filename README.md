@@ -19,5 +19,6 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/Mofazzal874"><img src="https://ghchart.rshah.org/1f6feb/Mofazzal874" alt="Mofazzal's contribution chart" /></a>
+  <a href="https://github.com/Mofazzal874"><img src="https://mofazzal874-activity-graph.vercel.app/graph?username=Mofazzal874&bg_color=1a1b27&color=1f6feb&line=38bcad&point=628fdb&area=true&hide_border=true" alt="Mofazzal's activity graph" /></a>
 </p>
+
