@@ -15,7 +15,7 @@
 
 | <a href="https://github.com/Mofazzal874"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Mofazzal874&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Mofazzal's GitHub streak" /></a> | <a href="https://github.com/Mofazzal874"><img align="center" src="./profile/stats.svg" alt="Mofazzal's GitHub stats" /></a> |
 | :------------- | :-------------: |
-| <a href="https://github.com/Mofazzal874"><img src="./profile/top-langs.svg" alt="Mofazzal's top languages" /></a><br /><img src="https://komarev.com/ghpvc/?username=Mofazzal874&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /> | <a href="https://github.com/Mofazzal874"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mofazzal874&theme=tokyonight&utcOffset=6" alt="Mofazzal's productive time" /></a> |
+| <a href="https://github.com/Mofazzal874"><img src="./profile/top-langs.svg" alt="Mofazzal's top languages" /></a><br /><img src="https://komarev.com/ghpvc/?username=Mofazzal874&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /> | <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Programming quote" /> |
 
 <br />
 
