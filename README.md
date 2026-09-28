@@ -7,7 +7,6 @@
 <p align="center">
   <a href="mailto:mofazzalhossen874@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Mofazzal's Gmail" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/mofazzal874/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mofazzal's LinkedIn" height="30" width="40" /></a>
-  <a href="https://facebook.com/mofazzal874" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/0/04/Facebook_f_logo_%282021%29.svg" alt="Mofazzal's Facebook" height="30" width="40" /></a>
   <a href="https://www.youtube.com/@Mofazzal874" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Mofazzal's YouTube" height="30" width="40" /></a>
 </p>
 
